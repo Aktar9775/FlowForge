@@ -1,4 +1,4 @@
-# VectorShift
+#FlowForge
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-VectorShift is a **Frontend Technical Assessment project** demonstrating a modern **React.js + Tailwind CSS** frontend and **FastAPI + Python** backend integration.
+FlowForge is a **Frontend Technical project** demonstrating a modern **React.js + Tailwind CSS** frontend and **FastAPI + Python** backend integration.
 
 ---
 ## Screenshots
